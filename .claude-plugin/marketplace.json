@@ -1,0 +1,18 @@
+{
+  "name": "architecture-map",
+  "owner": {
+    "name": "rizvanua",
+    "url": "https://github.com/rizvanua"
+  },
+  "metadata": {
+    "description": "Interactive, drill-down architecture maps of multi-repo systems, built by Claude from the code."
+  },
+  "plugins": [
+    {
+      "name": "architecture-map",
+      "source": "./plugins/architecture-map",
+      "description": "Investigates a set of repositories and builds an interactive architecture map (runtime, CI/CD and observability views, guided flows) as a single HTML file.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "architecture-map",
+  "version": "0.1.0",
+  "description": "Investigates a set of repositories and builds an interactive architecture map (runtime, CI/CD and observability views, guided flows) as a single HTML file.",
+  "author": {
+    "name": "rizvanua",
+    "url": "https://github.com/rizvanua"
+  },
+  "homepage": "https://github.com/rizvanua/architecture-map",
+  "repository": "https://github.com/rizvanua/architecture-map",
+  "keywords": ["architecture", "diagram", "onboarding", "documentation", "visualization"]
+}
