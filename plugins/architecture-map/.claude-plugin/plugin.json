@@ -8,5 +8,12 @@
   },
   "homepage": "https://github.com/rizvanua/architecture-map",
   "repository": "https://github.com/rizvanua/architecture-map",
-  "keywords": ["architecture", "diagram", "onboarding", "documentation", "visualization"]
+  "keywords": [
+    "architecture",
+    "diagram",
+    "onboarding",
+    "documentation",
+    "visualization"
+  ],
+  "license": "MIT"
 }

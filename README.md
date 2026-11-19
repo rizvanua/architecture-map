@@ -42,3 +42,7 @@ The result is `architecture-map.html` plus `model.js`. `model.js` is the source 
 
 - Node.js 18+
 - Chrome, Chromium, Edge or Brave for the automated render check (optional; set `CHROME_PATH` if it isn't found)
+
+## License
+
+[MIT](LICENSE)
